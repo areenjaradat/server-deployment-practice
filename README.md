@@ -1,17 +1,34 @@
 # server-deployment-practice
 
-## Links
+## Author: areenjaradat
 
-[Repo link](https://github.com/areenjaradat/server-deployment-practice)
-[PR link](https://github.com/areenjaradat/server-deployment-practice/pulls)
-[GitHub Actions](https://github.com/areenjaradat/server-deployment-practice/actions)
-[Dev Branch Deployed heroku](https://areen-server-deploy-dev.herokuapp.com)
-[main Deployed heroku](https://areen-server-deploy-prod.herokuapp.com)
+### Links and Resources
 
-## install
+- [ci/cd](https://github.com/areenjaradat/server-deployment-practice/actions) (GitHub Actions)
 
-write npm i express dotenv
-npm i -D jest supertest
+- [Repo link](https://github.com/areenjaradat/server-deployment-practice)
 
-run test
-write npm test
+- [PR link](https://github.com/areenjaradat/server-deployment-practice/pulls)
+
+- [Dev Branch Deployed heroku](https://areen-server-deploy-dev.herokuapp.com)
+
+- [main Deployed heroku](https://areen-server-deploy-prod.herokuapp.com)
+
+### Setup
+
+#### `.env` requirements
+
+#### `express` requirements
+
+#### How to initialize/run your application (where applicable)
+
+- `node server.js`
+
+#### Tests
+
+- How do you run tests?
+   `npm test`
+
+#### UML
+
+![uml digrAM](images/uml.png)
